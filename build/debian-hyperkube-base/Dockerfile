@@ -42,6 +42,7 @@ RUN clean-install \
     ceph-common \
     cifs-utils \
     e2fsprogs \
+    iproute2 \
     xfsprogs \
     ethtool \
     git \
